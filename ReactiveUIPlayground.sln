@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveUIPlayground", "ReactiveUIPlayground\ReactiveUIPlayground.csproj", "{FD058B63-2914-4AE7-B988-AD1E716F4EE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveUIPlaygroundBusiness", "ReactiveUIPlaygroundBusiness\ReactiveUIPlaygroundBusiness.csproj", "{36E712AF-DB1A-46C4-B8FE-8A0A9504BE6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD058B63-2914-4AE7-B988-AD1E716F4EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD058B63-2914-4AE7-B988-AD1E716F4EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD058B63-2914-4AE7-B988-AD1E716F4EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD058B63-2914-4AE7-B988-AD1E716F4EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E712AF-DB1A-46C4-B8FE-8A0A9504BE6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E712AF-DB1A-46C4-B8FE-8A0A9504BE6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E712AF-DB1A-46C4-B8FE-8A0A9504BE6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E712AF-DB1A-46C4-B8FE-8A0A9504BE6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
