@@ -57,7 +57,7 @@ namespace ReactiveUIPlayground
 			textViewOutput = (TextView)FindViewById(Resource.Id.textViewOutput);
 			this.Bind(viewModel, a => a.TextInput, asd => asd.editTextInput.Text);
 			this.Bind(viewModel, gsg => gsg.TextOutput, dsde => dsde.textViewOutput.Text);
-			this.Bi
+			buttonStartStop.comman
 		}
 	}
 }
